@@ -58,6 +58,7 @@ void insertNode(Node** head_ref, int new_data) {
 
 // Hàm d? in danh sách liên k?t
 // testing
+// testing_1
 void printList(Node* node) {
     while (node != NULL) {
         cout << node->data << " ";
